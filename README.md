@@ -8,7 +8,7 @@ A simple text editor built using Python and Tkinter with features like file hand
 ![Dark Mode](dark.png)
 
 ### Custom Theme
-![Custom Theme](pink.png)
+![Custom Theme](custom.png)
 
 ## ✨ Features
 - New, Open, Save files
