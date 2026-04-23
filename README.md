@@ -2,8 +2,13 @@
 
 A simple text editor built using Python and Tkinter with features like file handling, themes, and font customization.
 
-## Screenshot
-![App Screenshot](screenshot.png)
+## 📸 Screenshots
+
+### Dark Mode
+![Dark Mode](dark.png)
+
+### Custom Theme
+![Custom Theme](pink.png)
 
 ## ✨ Features
 - New, Open, Save files
