@@ -1,6 +1,9 @@
 # 📝 Text Editor (Tkinter)
 
-A simple text editor built using Python and Tkinter.
+A simple text editor built using Python and Tkinter with features like file handling, themes, and font customization.
+
+## Screenshot
+![App Screenshot](screenshot.png)
 
 ## ✨ Features
 - New, Open, Save files
